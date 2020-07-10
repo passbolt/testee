@@ -27,7 +27,7 @@
     "http-proxy": "^1.1.4",
     "istanbul": "^0.4.0",
     "launchpad": "^0.7.1",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.16",
     "mime-types": "^2.1.6",
     "miner": "^1.0.0",
     "mocha": "^4.1.0",
